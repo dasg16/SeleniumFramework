@@ -1,0 +1,12 @@
+[INFO ] 2018-08-15 23:57:29.426 [main] base - Entered into contact page from homepage
+[INFO ] 2018-08-15 23:57:29.573 [main] base - Validated contact details lable
+[INFO ] 2018-08-15 23:57:29.613 [main] base - Validated contact address
+[INFO ] 2018-08-15 23:57:29.683 [main] base - Validated contact phone number
+[INFO ] 2018-08-15 23:57:29.838 [main] base - Validate first Email ID
+[INFO ] 2018-08-15 23:57:29.961 [main] base - Validate Second Email ID
+[INFO ] 2018-08-15 23:59:43.807 [main] base - Entered into contact page from homepage
+[INFO ] 2018-08-15 23:59:43.933 [main] base - Validated contact details lable
+[INFO ] 2018-08-15 23:59:43.982 [main] base - Validated contact address
+[INFO ] 2018-08-15 23:59:44.059 [main] base - Validated contact phone number
+[INFO ] 2018-08-15 23:59:44.202 [main] base - Validate first Email ID
+[INFO ] 2018-08-15 23:59:44.332 [main] base - Validate Second Email ID

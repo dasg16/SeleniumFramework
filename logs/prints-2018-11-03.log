@@ -1,0 +1,41 @@
+[INFO ] 2018-11-03 16:57:04.769 [main] base - Driver has been initialized
+[INFO ] 2018-11-03 16:57:16.244 [main] base - Clicked on the close button of the pop-up
+[INFO ] 2018-11-03 16:57:19.210 [main] base - Clicked on the loggin button
+[INFO ] 2018-11-03 16:57:21.211 [main] base - Clicked on the Sign Up button
+[INFO ] 2018-11-03 16:57:21.267 [main] base - Validated 'Email is required' error message
+[INFO ] 2018-11-03 16:57:21.611 [main] base - Entered already existing Email ID
+[INFO ] 2018-11-03 16:57:23.118 [main] base - Clicked on the Sign Up button
+[INFO ] 2018-11-03 16:57:23.166 [main] base - Validated 'Email is already in use' error message
+[INFO ] 2018-11-03 16:57:24.540 [main] base - Clicked on the Sign Up button
+[INFO ] 2018-11-03 16:57:24.590 [main] base - Validated 'Name is required' error message
+[INFO ] 2018-11-03 16:57:25.940 [main] base - Clicked on the Sign Up button
+[INFO ] 2018-11-03 16:57:25.986 [main] base - Validated 'Password is required' error message
+[INFO ] 2018-11-03 16:57:26.110 [main] base - Entered 5 digit value in the text field
+[INFO ] 2018-11-03 16:57:27.652 [main] base - Clicked on the Sign Up button
+[INFO ] 2018-11-03 16:57:27.695 [main] base - Validate 'Password is too short (minimum is 6 characters)' error message
+[INFO ] 2018-11-03 16:57:27.810 [main] base - Entered 6 digit value in the text field
+[INFO ] 2018-11-03 16:57:29.532 [main] base - Clicked on the Sign Up button
+[INFO ] 2018-11-03 16:57:29.620 [main] base - Validated 'Password is too short (minimum is 6 characters)' error message' is not shown
+[INFO ] 2018-11-03 16:57:29.660 [main] base - Validated 'Password is too short (minimum is 6 characters)' error message' is not shown
+[INFO ] 2018-11-03 16:57:29.695 [main] base - Validated 'Password is too short (minimum is 6 characters)' error message' is not shown
+[INFO ] 2018-11-03 16:57:29.728 [main] base - Validated 'Password is too short (minimum is 6 characters)' error message' is not shown
+[INFO ] 2018-11-03 16:57:29.995 [main] base - Entered the same value for password and confirm password
+[INFO ] 2018-11-03 16:57:31.606 [main] base - Clicked on the Sign Up button
+[INFO ] 2018-11-03 16:57:31.678 [main] base - Validated 'Password confirmation doesn't match Password' is not shown
+[INFO ] 2018-11-03 16:57:31.723 [main] base - Validated 'Password confirmation doesn't match Password' is not shown
+[INFO ] 2018-11-03 16:57:31.755 [main] base - Validated 'Password confirmation doesn't match Password' is not shown
+[INFO ] 2018-11-03 16:57:32.006 [main] base - Entered different values for password and confirm password
+[INFO ] 2018-11-03 16:57:33.522 [main] base - Clicked on the Sign Up button
+[ERROR] 2018-11-03 16:57:33.600 [main] base - Validate 'Password confirmation doesn't match Password' error message wasn't shown
+[ERROR] 2018-11-03 16:57:33.632 [main] base - Validate 'Password confirmation doesn't match Password' error message wasn't shown
+[ERROR] 2018-11-03 16:57:33.664 [main] base - Validate 'Password confirmation doesn't match Password' error message wasn't shown
+[ERROR] 2018-11-03 16:57:33.695 [main] base - Validate 'Password confirmation doesn't match Password' error message wasn't shown
+[INFO ] 2018-11-03 16:57:35.253 [main] base - Clicked on the Sign Up button
+[ERROR] 2018-11-03 16:57:35.338 [main] base - You must agree to the Terms of Use and Privacy Policy error message wasn't shown
+[ERROR] 2018-11-03 16:57:35.371 [main] base - You must agree to the Terms of Use and Privacy Policy error message wasn't shown
+[ERROR] 2018-11-03 16:57:35.403 [main] base - You must agree to the Terms of Use and Privacy Policy error message wasn't shown
+[INFO ] 2018-11-03 16:57:37.133 [main] base - Clicked on the Sign Up button
+[INFO ] 2018-11-03 16:57:37.209 [main] base - Validated color of error test message
+[INFO ] 2018-11-03 16:57:38.681 [main] base - Clicked on the Sign Up button
+[INFO ] 2018-11-03 16:57:38.710 [main] base - Validated background color of error message
+[INFO ] 2018-11-03 16:57:40.269 [main] base - Driver has been initialized

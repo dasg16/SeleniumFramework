@@ -1,0 +1,42 @@
+[INFO ] 2018-07-28 15:18:37.614 [main] base - Driver has been initialized
+[INFO ] 2018-07-28 15:18:49.231 [main] base - Clicked on the close button of the pop-up
+[INFO ] 2018-07-28 15:18:51.767 [main] base - Clicked on the loggin button
+[INFO ] 2018-07-28 15:18:55.025 [main] base - Clicked on the Sign Up button
+[INFO ] 2018-07-28 15:18:55.076 [main] base - Validated 'Email is required' error message
+[INFO ] 2018-07-28 15:18:55.512 [main] base - Entered already existing Email ID
+[INFO ] 2018-07-28 15:18:56.506 [main] base - Clicked on the Sign Up button
+[INFO ] 2018-07-28 15:18:56.549 [main] base - Validated 'Email is already in use' error message
+[INFO ] 2018-07-28 15:18:57.566 [main] base - Clicked on the Sign Up button
+[INFO ] 2018-07-28 15:18:57.606 [main] base - Validated 'Name is required' error message
+[INFO ] 2018-07-28 15:18:58.433 [main] base - Clicked on the Sign Up button
+[INFO ] 2018-07-28 15:18:58.473 [main] base - Validated 'Password is required' error message
+[INFO ] 2018-07-28 15:18:58.568 [main] base - Entered 5 digit value in the text field
+[INFO ] 2018-07-28 15:18:59.578 [main] base - Clicked on the Sign Up button
+[INFO ] 2018-07-28 15:18:59.621 [main] base - Validate 'Password is too short (minimum is 6 characters)' error message
+[INFO ] 2018-07-28 15:18:59.813 [main] base - Entered 6 digit value in the text field
+[INFO ] 2018-07-28 15:19:00.812 [main] base - Clicked on the Sign Up button
+[INFO ] 2018-07-28 15:19:00.895 [main] base - Validated 'Password is too short (minimum is 6 characters)' error message' is not shown
+[INFO ] 2018-07-28 15:19:00.925 [main] base - Validated 'Password is too short (minimum is 6 characters)' error message' is not shown
+[INFO ] 2018-07-28 15:19:00.957 [main] base - Validated 'Password is too short (minimum is 6 characters)' error message' is not shown
+[INFO ] 2018-07-28 15:19:00.990 [main] base - Validated 'Password is too short (minimum is 6 characters)' error message' is not shown
+[INFO ] 2018-07-28 15:19:01.255 [main] base - Entered the same value for password and confirm password
+[INFO ] 2018-07-28 15:19:02.208 [main] base - Clicked on the Sign Up button
+[INFO ] 2018-07-28 15:19:02.265 [main] base - Validated 'Password confirmation doesn't match Password' is not shown
+[INFO ] 2018-07-28 15:19:02.293 [main] base - Validated 'Password confirmation doesn't match Password' is not shown
+[INFO ] 2018-07-28 15:19:02.324 [main] base - Validated 'Password confirmation doesn't match Password' is not shown
+[INFO ] 2018-07-28 15:19:02.591 [main] base - Entered different values for password and confirm password
+[INFO ] 2018-07-28 15:19:03.777 [main] base - Clicked on the Sign Up button
+[ERROR] 2018-07-28 15:19:03.842 [main] base - Validate 'Password confirmation doesn't match Password' error message wasn't shown
+[ERROR] 2018-07-28 15:19:03.873 [main] base - Validate 'Password confirmation doesn't match Password' error message wasn't shown
+[ERROR] 2018-07-28 15:19:03.902 [main] base - Validate 'Password confirmation doesn't match Password' error message wasn't shown
+[ERROR] 2018-07-28 15:19:03.933 [main] base - Validate 'Password confirmation doesn't match Password' error message wasn't shown
+[INFO ] 2018-07-28 15:19:05.089 [main] base - Clicked on the Sign Up button
+[ERROR] 2018-07-28 15:19:05.156 [main] base - You must agree to the Terms of Use and Privacy Policy error message wasn't shown
+[ERROR] 2018-07-28 15:19:05.186 [main] base - You must agree to the Terms of Use and Privacy Policy error message wasn't shown
+[ERROR] 2018-07-28 15:19:05.215 [main] base - You must agree to the Terms of Use and Privacy Policy error message wasn't shown
+[INFO ] 2018-07-28 15:19:06.077 [main] base - Clicked on the Sign Up button
+[INFO ] 2018-07-28 15:19:06.121 [main] base - Validated color of error test message
+[INFO ] 2018-07-28 15:19:07.108 [main] base - Clicked on the Sign Up button
+[INFO ] 2018-07-28 15:19:07.136 [main] base - Validated background color of error message
+[INFO ] 2018-07-28 15:19:08.277 [main] base - Driver has been initialized
+[INFO ] 2018-07-28 15:19:25.706 [main] base - Validated QAcademy's facebook page link on HomePage

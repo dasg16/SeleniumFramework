@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite  name="Suite">
+  <listeners>
+<listener class-name= "WebTestFrame.listeners"/>
+         <listener class-name="resources.ExtentReporterNG"/>
+
+</listeners>
+<test name="End2End1">
+
+		<groups>
+            <run>
+                <include name ="End2End"/>
+            </run>
+        </groups>
+    
+</test>
+
+<test name="End2End2">
+
+		<groups>
+            <run>
+                <include name ="End2End"/>
+            </run>
+        </groups>
+        
+        <classes>
+      
+      <class name="WebTestFrame.validateCreateAccount"/>
+      
+       </classes>
+       
+</test>       
+ 
+  <test name="End2End3">    
+ 
+ <groups>
+            <run>
+                <include name ="End2End"/>
+            </run>
+        </groups>
+       
+       <classes>
+      <class name="WebTestFrame.validateHomePage">
+      
+      </class>
+    </classes>
+ 
+ </test>
+<test name="End2End4">    
+<groups>
+            <run>
+                <include name ="End2End"/>
+            </run>
+        </groups>
+
+    <classes>
+      <class name="WebTestFrame.validateLogin"/>
+      
+    </classes>
+ 
+ </test>
+ <test name="End2End5">   
+ 
+ <groups>
+            <run>
+                <include name ="End2End"/>
+            </run>
+        </groups>
+     <classes>
+      <class name="WebTestFrame.ValidatePractice">
+      
+      </class>
+    </classes>
+    
+</test>
+
+</suite> <!-- Suite -->

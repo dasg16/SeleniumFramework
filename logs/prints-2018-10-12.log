@@ -1,0 +1,194 @@
+[INFO ] 2018-10-12 07:13:41.888 [TestNG] base - Driver has been initialized
+[INFO ] 2018-10-12 07:13:41.891 [TestNG] base - Driver has been initialized
+[INFO ] 2018-10-12 07:13:41.915 [TestNG] base - Driver has been initialized
+[INFO ] 2018-10-12 07:13:41.920 [TestNG] base - Driver has been initialized
+[INFO ] 2018-10-12 07:14:13.031 [TestNG] base - Entered into contact page from homepage
+[INFO ] 2018-10-12 07:14:43.840 [TestNG] base - Validated contact details lable
+[INFO ] 2018-10-12 07:14:54.230 [TestNG] base - Validated contact address
+[INFO ] 2018-10-12 07:15:04.966 [TestNG] base - Validated contact phone number
+[INFO ] 2018-10-12 07:15:26.508 [TestNG] base - Validated QAcademy's youtube page link on HomePage
+[INFO ] 2018-10-12 07:17:06.813 [TestNG] base - Driver has been initialized
+[INFO ] 2018-10-12 07:17:06.992 [TestNG] base - Driver has been initialized
+[INFO ] 2018-10-12 07:17:07.302 [TestNG] base - Driver has been initialized
+[INFO ] 2018-10-12 07:17:07.299 [TestNG] base - Driver has been initialized
+[INFO ] 2018-10-12 07:19:51.214 [TestNG] base - Validated QAcademy's youtube page link on HomePage
+[INFO ] 2018-10-12 07:21:19.216 [TestNG] base - Driver has been initialized
+[INFO ] 2018-10-12 07:21:19.225 [TestNG] base - Driver has been initialized
+[INFO ] 2018-10-12 07:22:05.021 [TestNG] base - Validated QAcademy's facebook page link on HomePage
+[INFO ] 2018-10-12 07:23:00.811 [TestNG] base - Driver has been initialized
+[INFO ] 2018-10-12 07:23:13.897 [TestNG] base - Driver has been initialized
+[INFO ] 2018-10-12 07:23:14.639 [TestNG] base - Entered into contact page from homepage
+[INFO ] 2018-10-12 07:23:47.415 [TestNG] base - Validated Practice page link on HomePage
+[INFO ] 2018-10-12 07:23:57.470 [TestNG] base - Moved into Practice page
+[INFO ] 2018-10-12 07:23:57.511 [TestNG] base - Verified dropdown button title tag
+[INFO ] 2018-10-12 07:23:57.653 [TestNG] base - Validated dropdown option 1
+[INFO ] 2018-10-12 07:23:57.761 [TestNG] base - Validated dropdown option 2
+[INFO ] 2018-10-12 07:23:57.852 [TestNG] base - Validated dropdown option 3
+[INFO ] 2018-10-12 07:23:57.896 [TestNG] base - Verified radio button title tag
+[INFO ] 2018-10-12 07:24:29.097 [TestNG] base - Verified Suggestion Class Textbox title tag
+[INFO ] 2018-10-12 07:24:39.759 [TestNG] base - Verified dropdown button title tag
+[INFO ] 2018-10-12 07:24:39.818 [TestNG] base - Verified checkbox lable
+[INFO ] 2018-10-12 07:24:39.985 [TestNG] base - Validate checkbox option one is selected
+[INFO ] 2018-10-12 07:24:40.126 [TestNG] base - Validate checkbox option two is selected
+[INFO ] 2018-10-12 07:25:11.882 [TestNG] base - Driver has been initialized
+[INFO ] 2018-10-12 07:25:11.913 [TestNG] base - Driver has been initialized
+[INFO ] 2018-10-12 07:25:55.527 [TestNG] base - Validated QAcademy's facebook page link on HomePage
+[INFO ] 2018-10-12 07:26:51.723 [TestNG] base - Driver has been initialized
+[INFO ] 2018-10-12 07:27:06.804 [TestNG] base - Clicked on the loggin button in the home page
+[INFO ] 2018-10-12 07:27:17.150 [TestNG] base - Inserted username and password
+[INFO ] 2018-10-12 07:27:18.545 [TestNG] base - clicked on the Login button in the login page
+[INFO ] 2018-10-12 07:27:28.657 [TestNG] base - Validate if invalid username password has been displayed
+[INFO ] 2018-10-12 07:27:28.760 [TestNG] base - Clicked on the loggin button in the home page
+[INFO ] 2018-10-12 07:27:28.762 [TestNG] base - Clicked on the loggin button in the home page
+[INFO ] 2018-10-12 07:27:28.814 [TestNG] base - Validated color of error test message
+[INFO ] 2018-10-12 07:27:28.855 [TestNG] base - Validated background color of error message
+[INFO ] 2018-10-12 07:27:41.791 [TestNG] base - Validated the forget password link in the login page.
+[INFO ] 2018-10-12 07:27:46.001 [TestNG] base - Driver has been initialized
+[INFO ] 2018-10-12 07:28:08.855 [TestNG] base - Validated contact phone number
+[INFO ] 2018-10-12 07:28:22.188 [TestNG] base - Validated Practice page link on HomePage
+[INFO ] 2018-10-12 07:28:22.514 [TestNG] base - Moved into Practice page
+[INFO ] 2018-10-12 07:34:46.748 [TestNG] base - Driver has been initialized
+[INFO ] 2018-10-12 07:34:47.086 [TestNG] base - Driver has been initialized
+[INFO ] 2018-10-12 07:34:59.193 [TestNG] base - Clicked on the close button of the pop-up
+[INFO ] 2018-10-12 07:35:02.857 [TestNG] base - Clicked on the loggin button
+[INFO ] 2018-10-12 07:35:04.664 [TestNG] base - Clicked on the Sign Up button
+[INFO ] 2018-10-12 07:35:05.035 [TestNG] base - Advertisement Pop-Up Closed
+[INFO ] 2018-10-12 07:35:05.039 [TestNG] base - Validated 'Email is required' error message
+[INFO ] 2018-10-12 07:35:15.683 [TestNG] base - Entered already existing Email ID
+[INFO ] 2018-10-12 07:35:27.408 [TestNG] base - Clicked on the Sign Up button
+[INFO ] 2018-10-12 07:35:37.500 [TestNG] base - Validated 'Email is already in use' error message
+[INFO ] 2018-10-12 07:35:48.915 [TestNG] base - Clicked on the Sign Up button
+[INFO ] 2018-10-12 07:35:59.322 [TestNG] base - Validated 'Name is required' error message
+[INFO ] 2018-10-12 07:36:10.789 [TestNG] base - Clicked on the Sign Up button
+[INFO ] 2018-10-12 07:36:11.163 [TestNG] base - Validated 'Password is required' error message
+[INFO ] 2018-10-12 07:36:21.617 [TestNG] base - Entered 5 digit value in the text field
+[INFO ] 2018-10-12 07:36:21.617 [TestNG] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-10-12 07:36:33.299 [TestNG] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-10-12 07:36:33.299 [TestNG] base - Clicked on the Sign Up button
+[INFO ] 2018-10-12 07:36:43.620 [TestNG] base - Validate 'Password is too short (minimum is 6 characters)' error message
+[INFO ] 2018-10-12 07:36:43.620 [TestNG] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-10-12 07:36:53.736 [TestNG] base - Entered 6 digit value in the text field
+[INFO ] 2018-10-12 07:36:54.041 [TestNG] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-10-12 07:37:05.690 [TestNG] base - Clicked on the Sign Up button
+[INFO ] 2018-10-12 07:37:05.970 [TestNG] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-10-12 07:37:16.404 [TestNG] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-10-12 07:37:16.434 [TestNG] base - Validated 'Password is too short (minimum is 6 characters)' error message' is not shown
+[INFO ] 2018-10-12 07:37:26.806 [TestNG] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-10-12 07:37:26.806 [TestNG] base - Validated 'Password is too short (minimum is 6 characters)' error message' is not shown
+[INFO ] 2018-10-12 07:37:37.302 [TestNG] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-10-12 07:37:37.302 [TestNG] base - Validated 'Password is too short (minimum is 6 characters)' error message' is not shown
+[INFO ] 2018-10-12 07:37:47.719 [TestNG] base - Validated 'Password is too short (minimum is 6 characters)' error message' is not shown
+[INFO ] 2018-10-12 07:38:24.203 [TestNG] base - Driver has been initialized
+[INFO ] 2018-10-12 07:38:24.228 [TestNG] base - Driver has been initialized
+[INFO ] 2018-10-12 07:38:35.892 [TestNG] base - Clicked on the close button of the pop-up
+[INFO ] 2018-10-12 07:38:39.587 [TestNG] base - Clicked on the loggin button
+[INFO ] 2018-10-12 07:38:41.017 [TestNG] base - Clicked on the Sign Up button
+[INFO ] 2018-10-12 07:38:41.382 [TestNG] base - Advertisement Pop-Up Closed
+[INFO ] 2018-10-12 07:38:41.385 [TestNG] base - Validated 'Email is required' error message
+[INFO ] 2018-10-12 07:38:52.147 [TestNG] base - Entered already existing Email ID
+[INFO ] 2018-10-12 07:39:03.449 [TestNG] base - Clicked on the Sign Up button
+[INFO ] 2018-10-12 07:39:13.849 [TestNG] base - Validated 'Email is already in use' error message
+[INFO ] 2018-10-12 07:39:25.320 [TestNG] base - Clicked on the Sign Up button
+[INFO ] 2018-10-12 07:39:35.683 [TestNG] base - Validated 'Name is required' error message
+[INFO ] 2018-10-12 07:39:47.270 [TestNG] base - Clicked on the Sign Up button
+[INFO ] 2018-10-12 07:39:57.352 [TestNG] base - Validated 'Password is required' error message
+[INFO ] 2018-10-12 07:39:57.650 [TestNG] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-10-12 07:40:07.814 [TestNG] base - Entered 5 digit value in the text field
+[INFO ] 2018-10-12 07:40:08.112 [TestNG] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-10-12 07:40:09.480 [TestNG] base - Clicked on the Sign Up button
+[INFO ] 2018-10-12 07:40:19.860 [TestNG] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-10-12 07:40:19.860 [TestNG] base - Validate 'Password is too short (minimum is 6 characters)' error message
+[INFO ] 2018-10-12 07:40:30.007 [TestNG] base - Entered 6 digit value in the text field
+[INFO ] 2018-10-12 07:40:30.331 [TestNG] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-10-12 07:40:32.496 [TestNG] base - Clicked on the Sign Up button
+[INFO ] 2018-10-12 07:40:42.843 [TestNG] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-10-12 07:40:52.946 [TestNG] base - Validated 'Password is too short (minimum is 6 characters)' error message' is not shown
+[INFO ] 2018-10-12 07:40:53.300 [TestNG] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-10-12 07:40:53.330 [TestNG] base - Validated 'Password is too short (minimum is 6 characters)' error message' is not shown
+[INFO ] 2018-10-12 07:41:03.685 [TestNG] base - Validated 'Password is too short (minimum is 6 characters)' error message' is not shown
+[INFO ] 2018-10-12 07:41:03.685 [TestNG] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-10-12 07:41:14.053 [TestNG] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-10-12 07:41:14.053 [TestNG] base - Validated 'Password is too short (minimum is 6 characters)' error message' is not shown
+[INFO ] 2018-10-12 08:34:38.509 [TestNG] base - Driver has been initialized
+[INFO ] 2018-10-12 08:34:38.701 [TestNG] base - Driver has been initialized
+[INFO ] 2018-10-12 08:34:48.670 [TestNG] base - Driver has been initialized
+[INFO ] 2018-10-12 08:34:48.958 [TestNG] base - Driver has been initialized
+[INFO ] 2018-10-12 08:35:13.925 [TestNG] base - Validated QAcademy's facebook page link on HomePage
+[INFO ] 2018-10-12 08:35:16.040 [TestNG] base - Advertisement Pop-Up Closed
+[INFO ] 2018-10-12 08:35:16.125 [TestNG] base - Home Tab in the Landing page has been verified
+[INFO ] 2018-10-12 08:35:16.194 [TestNG] base - Course Tab in the Landing page has been verified
+[INFO ] 2018-10-12 08:35:16.281 [TestNG] base - Videos Tab in the Landing page has been verified
+[INFO ] 2018-10-12 08:35:16.381 [TestNG] base - Interview Guide Tab in the Landing page has been verified
+[INFO ] 2018-10-12 08:35:16.563 [TestNG] base - Practice Tab in the Landing page has been verified
+[INFO ] 2018-10-12 08:35:16.678 [TestNG] base - Blog Tab in the Landing page has been verified
+[INFO ] 2018-10-12 08:35:16.803 [TestNG] base - About Tab in the Landing page has been verified
+[INFO ] 2018-10-12 08:35:17.015 [TestNG] base - Verified the link in the image is as expected
+[INFO ] 2018-10-12 08:35:17.340 [TestNG] base - Verified the link in the image is as expected
+[INFO ] 2018-10-12 08:35:17.594 [TestNG] base - Verified the link in the text is as expected
+[INFO ] 2018-10-12 08:35:17.885 [TestNG] base - Verified the link in the image is as expected
+[INFO ] 2018-10-12 08:35:17.986 [TestNG] base - Verified if the discount price is as expected
+[INFO ] 2018-10-12 08:35:18.064 [TestNG] base - Verified if the actual cost of the course is as expected
+[INFO ] 2018-10-12 08:35:26.301 [TestNG] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-10-12 08:35:26.343 [TestNG] base - Validated QAcademy's facebook page link on HomePage
+[INFO ] 2018-10-12 08:35:36.869 [TestNG] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-10-12 08:35:42.887 [TestNG] base - Validated QAcademy's Blog page link on HomePage navigation bar
+[INFO ] 2018-10-12 08:35:44.885 [TestNG] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-10-12 08:35:47.800 [TestNG] base - Validated QAcademy's Contact page link on HomePage navigation bar
+[INFO ] 2018-10-12 08:35:48.758 [TestNG] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-10-12 08:35:53.849 [TestNG] base - Validated QAcademy's Courses page link on HomePage navigation bar
+[INFO ] 2018-10-12 08:35:54.867 [TestNG] base - Advertisement Pop-Up Closed
+[INFO ] 2018-10-12 08:35:55.130 [TestNG] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-10-12 08:35:55.229 [TestNG] base - Home Tab in the Landing page has been verified
+[INFO ] 2018-10-12 08:35:57.425 [TestNG] base - Validated QAcademy's Home page link on HomePage navigation bar
+[INFO ] 2018-10-12 08:35:58.704 [TestNG] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-10-12 08:35:58.744 [TestNG] base - Verified the link in the image is as expected
+[INFO ] 2018-10-12 08:36:00.248 [TestNG] base - Validated QAcademy's Interview Guide page link on HomePage navigation bar
+[INFO ] 2018-10-12 08:36:01.410 [TestNG] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-10-12 08:36:01.508 [TestNG] base - Verified the link in the image is as expected
+[INFO ] 2018-10-12 08:36:03.869 [TestNG] base - Validated QAcademy's Practice page link on HomePage navigation bar
+[INFO ] 2018-10-12 08:36:05.300 [TestNG] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-10-12 08:36:05.401 [TestNG] base - Verified if the actual cost of the course is as expected
+[INFO ] 2018-10-12 08:36:06.916 [TestNG] base - Validated QAcademy's Videos page link on HomePage navigation bar
+[INFO ] 2018-10-12 08:36:18.501 [TestNG] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-10-12 08:36:30.047 [TestNG] base - Validated QAcademy's About page link on HomePage navigation bar
+[INFO ] 2018-10-12 08:36:41.928 [TestNG] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-10-12 08:37:04.766 [TestNG] base - Validated QAcademy's Blog page link on HomePage navigation bar
+[INFO ] 2018-10-12 08:37:16.557 [TestNG] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-10-12 08:37:37.963 [TestNG] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-10-12 08:37:49.217 [TestNG] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-10-12 08:41:59.664 [TestNG] base - Driver has been initialized
+[INFO ] 2018-10-12 08:42:06.441 [TestNG] base - Driver has been initialized
+[INFO ] 2018-10-12 08:42:25.122 [TestNG] base - Validated QAcademy's facebook page link on HomePage
+[INFO ] 2018-10-12 08:42:32.819 [TestNG] base - Validated QAcademy's facebook page link on HomePage
+[INFO ] 2018-10-12 08:42:37.025 [TestNG] base - Validated QAcademy's youtube page link on HomePage
+[INFO ] 2018-10-12 08:42:41.272 [TestNG] base - Validated QAcademy's youtube page link on HomePage
+[INFO ] 2018-10-12 08:42:41.280 [TestNG] base - Advertisement Pop-Up Closed
+[INFO ] 2018-10-12 08:42:41.530 [TestNG] base - Home Tab in the Landing page has been verified
+[INFO ] 2018-10-12 08:42:41.567 [TestNG] base - Course Tab in the Landing page has been verified
+[INFO ] 2018-10-12 08:42:41.608 [TestNG] base - Videos Tab in the Landing page has been verified
+[INFO ] 2018-10-12 08:42:41.650 [TestNG] base - Interview Guide Tab in the Landing page has been verified
+[INFO ] 2018-10-12 08:42:41.691 [TestNG] base - Practice Tab in the Landing page has been verified
+[INFO ] 2018-10-12 08:42:41.730 [TestNG] base - Blog Tab in the Landing page has been verified
+[INFO ] 2018-10-12 08:42:41.783 [TestNG] base - About Tab in the Landing page has been verified
+[INFO ] 2018-10-12 08:42:41.880 [TestNG] base - Verified the link in the image is as expected
+[INFO ] 2018-10-12 08:42:42.009 [TestNG] base - Verified the link in the image is as expected
+[INFO ] 2018-10-12 08:42:42.108 [TestNG] base - Verified the link in the text is as expected
+[INFO ] 2018-10-12 08:42:42.294 [TestNG] base - Verified the link in the image is as expected
+[INFO ] 2018-10-12 08:42:42.348 [TestNG] base - Verified if the discount price is as expected
+[INFO ] 2018-10-12 08:42:42.382 [TestNG] base - Verified if the actual cost of the course is as expected
+[INFO ] 2018-10-12 08:42:43.014 [TestNG] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-10-12 08:42:45.571 [TestNG] base - Validated QAcademy's About page link on HomePage navigation bar
+[INFO ] 2018-10-12 08:42:46.265 [TestNG] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-10-12 08:42:50.154 [TestNG] base - Validated QAcademy's Blog page link on HomePage navigation bar
+[INFO ] 2018-10-12 08:42:51.270 [TestNG] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-10-12 08:42:52.298 [TestNG] base - Validated QAcademy's Contact page link on HomePage navigation bar
+[INFO ] 2018-10-12 08:42:52.886 [TestNG] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-10-12 08:42:56.817 [TestNG] base - Validated QAcademy's Courses page link on HomePage navigation bar
+[INFO ] 2018-10-12 08:42:57.415 [TestNG] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-10-12 08:42:58.699 [TestNG] base - Validated QAcademy's Home page link on HomePage navigation bar
+[INFO ] 2018-10-12 08:42:59.513 [TestNG] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-10-12 08:43:00.748 [TestNG] base - Validated QAcademy's Interview Guide page link on HomePage navigation bar
+[INFO ] 2018-10-12 08:43:01.326 [TestNG] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-10-12 08:43:03.239 [TestNG] base - Validated QAcademy's Practice page link on HomePage navigation bar
+[INFO ] 2018-10-12 08:43:03.878 [TestNG] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-10-12 08:43:05.270 [TestNG] base - Validated QAcademy's Videos page link on HomePage navigation bar

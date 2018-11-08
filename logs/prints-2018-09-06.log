@@ -1,0 +1,54 @@
+[INFO ] 2018-09-06 14:19:14.491 [main] base - Driver has been initialized
+[INFO ] 2018-09-06 14:19:20.902 [main] base - Driver has been initialized
+[INFO ] 2018-09-06 14:19:37.113 [main] base - Validated QAcademy's facebook page link on HomePage
+[INFO ] 2018-09-06 14:19:43.679 [main] base - Validated QAcademy's facebook page link on HomePage
+[INFO ] 2018-09-06 14:19:47.479 [main] base - Validated QAcademy's youtube page link on HomePage
+[INFO ] 2018-09-06 14:19:50.674 [main] base - Validated QAcademy's youtube page link on HomePage
+[INFO ] 2018-09-06 14:19:50.696 [main] base - Advertisement Pop-Up Closed
+[INFO ] 2018-09-06 14:19:50.803 [main] base - Home Tab in the Landing page has been verified
+[INFO ] 2018-09-06 14:19:50.845 [main] base - Course Tab in the Landing page has been verified
+[INFO ] 2018-09-06 14:19:50.896 [main] base - Videos Tab in the Landing page has been verified
+[INFO ] 2018-09-06 14:19:50.941 [main] base - Interview Guide Tab in the Landing page has been verified
+[INFO ] 2018-09-06 14:19:50.984 [main] base - Practice Tab in the Landing page has been verified
+[INFO ] 2018-09-06 14:19:51.028 [main] base - Blog Tab in the Landing page has been verified
+[INFO ] 2018-09-06 14:19:51.068 [main] base - About Tab in the Landing page has been verified
+[INFO ] 2018-09-06 14:19:51.230 [main] base - Verified the link in the image is as expected
+[INFO ] 2018-09-06 14:19:51.328 [main] base - Verified the link in the text is as expected
+[INFO ] 2018-09-06 14:19:51.448 [main] base - Verified the link in the image is as expected
+[INFO ] 2018-09-06 14:19:51.499 [main] base - Verified if the actual cost of the course is as expected
+[INFO ] 2018-09-06 14:19:51.509 [main] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-09-06 14:21:16.755 [main] base - Driver has been initialized
+[INFO ] 2018-09-06 14:21:33.012 [main] base - Validated QAcademy's facebook page link on HomePage
+[INFO ] 2018-09-06 14:21:39.148 [main] base - Validated QAcademy's facebook page link on HomePage
+[INFO ] 2018-09-06 14:21:43.846 [main] base - Validated QAcademy's youtube page link on HomePage
+[INFO ] 2018-09-06 14:21:47.402 [main] base - Validated QAcademy's youtube page link on HomePage
+[INFO ] 2018-09-06 14:21:47.414 [main] base - Advertisement Pop-Up Closed
+[INFO ] 2018-09-06 14:21:47.533 [main] base - Home Tab in the Landing page has been verified
+[INFO ] 2018-09-06 14:21:47.583 [main] base - Course Tab in the Landing page has been verified
+[INFO ] 2018-09-06 14:21:47.685 [main] base - Videos Tab in the Landing page has been verified
+[INFO ] 2018-09-06 14:21:47.763 [main] base - Interview Guide Tab in the Landing page has been verified
+[INFO ] 2018-09-06 14:21:47.833 [main] base - Practice Tab in the Landing page has been verified
+[INFO ] 2018-09-06 14:21:47.917 [main] base - Blog Tab in the Landing page has been verified
+[INFO ] 2018-09-06 14:21:48.012 [main] base - About Tab in the Landing page has been verified
+[INFO ] 2018-09-06 14:21:48.125 [main] base - Verified the link in the image is as expected
+[INFO ] 2018-09-06 14:21:48.317 [main] base - Verified the link in the image is as expected
+[INFO ] 2018-09-06 14:21:48.476 [main] base - Verified the link in the text is as expected
+[INFO ] 2018-09-06 14:21:48.679 [main] base - Verified the link in the image is as expected
+[INFO ] 2018-09-06 14:21:48.825 [main] base - Verified if the discount price is as expected
+[INFO ] 2018-09-06 14:21:48.873 [main] base - Verified if the actual cost of the course is as expected
+[INFO ] 2018-09-06 14:21:49.601 [main] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-09-06 14:21:51.771 [main] base - Validated QAcademy's About page link on HomePage navigation bar
+[INFO ] 2018-09-06 14:21:52.415 [main] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-09-06 14:21:58.519 [main] base - Validated QAcademy's Blog page link on HomePage navigation bar
+[INFO ] 2018-09-06 14:21:59.500 [main] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-09-06 14:22:00.252 [main] base - Validated QAcademy's Contact page link on HomePage navigation bar
+[INFO ] 2018-09-06 14:22:00.666 [main] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-09-06 14:22:03.688 [main] base - Validated QAcademy's Courses page link on HomePage navigation bar
+[INFO ] 2018-09-06 14:22:04.172 [main] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-09-06 14:22:05.618 [main] base - Validated QAcademy's Home page link on HomePage navigation bar
+[INFO ] 2018-09-06 14:22:06.163 [main] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-09-06 14:22:07.148 [main] base - Validated QAcademy's Interview Guide page link on HomePage navigation bar
+[INFO ] 2018-09-06 14:22:07.598 [main] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-09-06 14:22:09.102 [main] base - Validated QAcademy's Practice page link on HomePage navigation bar
+[INFO ] 2018-09-06 14:22:09.522 [main] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-09-06 14:22:10.497 [main] base - Validated QAcademy's Videos page link on HomePage navigation bar

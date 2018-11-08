@@ -1,0 +1,89 @@
+[INFO ] 2018-09-09 15:03:05.232 [main] base - Driver has been initialized
+[INFO ] 2018-09-09 15:03:20.393 [main] base - Validated Practice page link on HomePage
+[INFO ] 2018-09-09 15:03:20.409 [main] base - Moved into Practice page
+[INFO ] 2018-09-09 15:03:20.579 [main] base - Verified radio button title tag
+[INFO ] 2018-09-09 15:03:20.863 [main] base - Verified Suggestion Class Textbox title tag
+[INFO ] 2018-09-09 15:03:21.322 [main] base - Verified dropdown button title tag
+[INFO ] 2018-09-09 15:03:21.477 [main] base - Validated dropdown option 1
+[INFO ] 2018-09-09 15:03:21.607 [main] base - Validated dropdown option 2
+[INFO ] 2018-09-09 15:03:21.710 [main] base - Validated dropdown option 3
+[INFO ] 2018-09-09 15:03:21.718 [main] base - Verified dropdown button title tag
+[INFO ] 2018-09-09 15:03:21.756 [main] base - Verified checkbox lable
+[INFO ] 2018-09-09 15:03:21.874 [main] base - Validate checkbox option one is selected
+[INFO ] 2018-09-09 15:03:21.995 [main] base - Validate checkbox option two is selected
+[INFO ] 2018-09-09 15:03:22.092 [main] base - Validate checkbox option three is selected
+[INFO ] 2018-09-09 15:03:22.137 [main] base - Verified Switch Window title tag
+[INFO ] 2018-09-09 15:03:23.030 [main] base - Verified Switch Window title tag
+[INFO ] 2018-09-09 15:03:23.574 [main] base - Verified Switch Window title tag
+[INFO ] 2018-09-09 15:03:24.361 [main] base - Verified Element Displayed title tag
+[INFO ] 2018-09-09 15:03:24.469 [main] base - Validated hide button
+[INFO ] 2018-09-09 15:03:24.576 [main] base - Validated show button
+[INFO ] 2018-09-09 15:03:24.606 [main] base - Verified Switch Window title tag
+[INFO ] 2018-09-09 15:03:25.184 [main] base - Verified Mouse Hover title tag
+[INFO ] 2018-09-09 15:03:25.373 [main] base - Verified Mouse Hovertop button
+[INFO ] 2018-09-09 15:03:27.152 [main] base - Verified Mouse Hovertop reload
+[INFO ] 2018-09-09 15:05:40.804 [main] base - Driver has been initialized
+[INFO ] 2018-09-09 15:05:51.506 [main] base - Verified dropdown button title tag
+[INFO ] 2018-09-09 15:06:06.176 [main] base - Validated Practice page link on HomePage
+[INFO ] 2018-09-09 15:06:06.188 [main] base - Moved into Practice page
+[INFO ] 2018-09-09 15:06:06.618 [main] base - Verified Suggestion Class Textbox title tag
+[INFO ] 2018-09-09 15:06:07.152 [main] base - Verified dropdown button title tag
+[INFO ] 2018-09-09 15:06:07.325 [main] base - Validated dropdown option 1
+[INFO ] 2018-09-09 15:06:07.502 [main] base - Validated dropdown option 2
+[INFO ] 2018-09-09 15:06:07.632 [main] base - Validated dropdown option 3
+[INFO ] 2018-09-09 15:06:07.726 [main] base - Verified Switch Window title tag
+[INFO ] 2018-09-09 15:06:08.509 [main] base - Verified Switch Window title tag
+[INFO ] 2018-09-09 15:06:09.034 [main] base - Verified Switch Window title tag
+[INFO ] 2018-09-09 15:06:09.720 [main] base - Verified Element Displayed title tag
+[INFO ] 2018-09-09 15:06:09.894 [main] base - Validated hide button
+[INFO ] 2018-09-09 15:06:10.050 [main] base - Validated show button
+[INFO ] 2018-09-09 15:06:10.113 [main] base - Verified Switch Window title tag
+[INFO ] 2018-09-09 15:06:10.777 [main] base - Verified Mouse Hover title tag
+[INFO ] 2018-09-09 15:06:11.074 [main] base - Verified Mouse Hovertop button
+[INFO ] 2018-09-09 15:06:13.062 [main] base - Verified Mouse Hovertop reload
+[INFO ] 2018-09-09 15:13:18.255 [main] base - Driver has been initialized
+[INFO ] 2018-09-09 15:13:32.058 [main] base - Validated Practice page link on HomePage
+[INFO ] 2018-09-09 15:13:32.069 [main] base - Moved into Practice page
+[INFO ] 2018-09-09 15:13:32.138 [main] base - Verified Suggestion Class Textbox title tag
+[INFO ] 2018-09-09 15:13:32.671 [main] base - Verified dropdown button title tag
+[INFO ] 2018-09-09 15:13:32.809 [main] base - Validated dropdown option 1
+[INFO ] 2018-09-09 15:13:32.921 [main] base - Validated dropdown option 2
+[INFO ] 2018-09-09 15:13:33.097 [main] base - Validated dropdown option 3
+[INFO ] 2018-09-09 15:13:33.105 [main] base - Verified dropdown button title tag
+[INFO ] 2018-09-09 15:13:33.145 [main] base - Verified checkbox lable
+[INFO ] 2018-09-09 15:13:33.256 [main] base - Validate checkbox option one is selected
+[INFO ] 2018-09-09 15:13:33.381 [main] base - Validate checkbox option two is selected
+[INFO ] 2018-09-09 15:13:33.499 [main] base - Validate checkbox option three is selected
+[INFO ] 2018-09-09 15:13:33.547 [main] base - Verified Switch Window title tag
+[INFO ] 2018-09-09 15:13:34.416 [main] base - Verified Switch Window title tag
+[INFO ] 2018-09-09 15:13:34.995 [main] base - Verified Switch Window title tag
+[INFO ] 2018-09-09 15:13:35.773 [main] base - Verified Element Displayed title tag
+[INFO ] 2018-09-09 15:13:35.876 [main] base - Validated hide button
+[INFO ] 2018-09-09 15:13:35.971 [main] base - Validated show button
+[INFO ] 2018-09-09 15:13:36.007 [main] base - Verified Switch Window title tag
+[INFO ] 2018-09-09 15:13:36.540 [main] base - Verified Mouse Hover title tag
+[INFO ] 2018-09-09 15:13:36.730 [main] base - Verified Mouse Hovertop button
+[INFO ] 2018-09-09 15:13:38.469 [main] base - Verified Mouse Hovertop reload
+[INFO ] 2018-09-09 15:14:39.596 [main] base - Driver has been initialized
+[INFO ] 2018-09-09 15:14:52.470 [main] base - Validated Practice page link on HomePage
+[INFO ] 2018-09-09 15:14:52.481 [main] base - Moved into Practice page
+[INFO ] 2018-09-09 15:14:53.217 [main] base - Verified Suggestion Class Textbox title tag
+[INFO ] 2018-09-09 15:14:53.614 [main] base - Verified dropdown button title tag
+[INFO ] 2018-09-09 15:14:53.771 [main] base - Validated dropdown option 1
+[INFO ] 2018-09-09 15:14:53.917 [main] base - Validated dropdown option 2
+[INFO ] 2018-09-09 15:14:54.122 [main] base - Validated dropdown option 3
+[INFO ] 2018-09-09 15:14:54.129 [main] base - Verified dropdown button title tag
+[INFO ] 2018-09-09 15:14:54.164 [main] base - Verified checkbox lable
+[INFO ] 2018-09-09 15:14:54.277 [main] base - Validate checkbox option one is selected
+[INFO ] 2018-09-09 15:14:54.396 [main] base - Validate checkbox option two is selected
+[INFO ] 2018-09-09 15:14:54.515 [main] base - Validate checkbox option three is selected
+[INFO ] 2018-09-09 15:14:54.561 [main] base - Verified Switch Window title tag
+[INFO ] 2018-09-09 15:14:55.269 [main] base - Verified Switch Window title tag
+[INFO ] 2018-09-09 15:14:55.758 [main] base - Verified Switch Window title tag
+[INFO ] 2018-09-09 15:14:56.491 [main] base - Verified Element Displayed title tag
+[INFO ] 2018-09-09 15:14:56.596 [main] base - Validated hide button
+[INFO ] 2018-09-09 15:14:56.718 [main] base - Validated show button
+[INFO ] 2018-09-09 15:14:56.745 [main] base - Verified Switch Window title tag
+[INFO ] 2018-09-09 15:14:57.306 [main] base - Verified Mouse Hover title tag
+[INFO ] 2018-09-09 15:14:57.460 [main] base - Verified Mouse Hovertop button
+[INFO ] 2018-09-09 15:14:59.237 [main] base - Verified Mouse Hovertop reload

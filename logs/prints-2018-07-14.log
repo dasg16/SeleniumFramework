@@ -1,0 +1,115 @@
+[INFO ] 2018-07-14 22:19:58.748 [main] base - Driver has been initialized
+[INFO ] 2018-07-14 22:20:09.216 [main] base - Clicked on the close button of the pop-up
+[INFO ] 2018-07-14 22:20:11.469 [main] base - Clicked on the loggin button
+[INFO ] 2018-07-14 22:20:14.555 [main] base - Clicked on the Sign Up button
+[INFO ] 2018-07-14 22:20:14.599 [main] base - Validated 'Email is required' error message
+[INFO ] 2018-07-14 22:20:14.866 [main] base - Entered already existing Email ID
+[INFO ] 2018-07-14 22:20:15.833 [main] base - Clicked on the Sign Up button
+[INFO ] 2018-07-14 22:20:15.882 [main] base - Validated 'Email is already in use' error message
+[INFO ] 2018-07-14 22:20:16.801 [main] base - Clicked on the Sign Up button
+[INFO ] 2018-07-14 22:20:16.840 [main] base - Validated 'Name is required' error message
+[INFO ] 2018-07-14 22:20:17.773 [main] base - Clicked on the Sign Up button
+[INFO ] 2018-07-14 22:20:17.813 [main] base - Validated 'Password is required' error message
+[INFO ] 2018-07-14 22:20:17.900 [main] base - Entered 5 digit value in the text field
+[INFO ] 2018-07-14 22:20:19.029 [main] base - Clicked on the Sign Up button
+[INFO ] 2018-07-14 22:20:19.067 [main] base - Validate 'Password is too short (minimum is 6 characters)' error message
+[INFO ] 2018-07-14 22:20:19.158 [main] base - Entered 6 digit value in the text field
+[INFO ] 2018-07-14 22:20:20.266 [main] base - Clicked on the Sign Up button
+[INFO ] 2018-07-14 22:20:20.341 [main] base - Validated 'Password is too short (minimum is 6 characters)' error message' is not shown
+[INFO ] 2018-07-14 22:20:20.370 [main] base - Validated 'Password is too short (minimum is 6 characters)' error message' is not shown
+[INFO ] 2018-07-14 22:20:20.400 [main] base - Validated 'Password is too short (minimum is 6 characters)' error message' is not shown
+[INFO ] 2018-07-14 22:20:20.431 [main] base - Validated 'Password is too short (minimum is 6 characters)' error message' is not shown
+[INFO ] 2018-07-14 22:20:20.676 [main] base - Entered the same value for password and confirm password
+[INFO ] 2018-07-14 22:20:21.858 [main] base - Clicked on the Sign Up button
+[INFO ] 2018-07-14 22:20:21.935 [main] base - Validated 'Password confirmation doesn't match Password' is not shown
+[INFO ] 2018-07-14 22:20:21.967 [main] base - Validated 'Password confirmation doesn't match Password' is not shown
+[INFO ] 2018-07-14 22:20:21.998 [main] base - Validated 'Password confirmation doesn't match Password' is not shown
+[INFO ] 2018-07-14 22:20:22.197 [main] base - Entered different values for password and confirm password
+[INFO ] 2018-07-14 22:20:23.217 [main] base - Clicked on the Sign Up button
+[ERROR] 2018-07-14 22:20:23.278 [main] base - Validate 'Password confirmation doesn't match Password' error message wasn't shown
+[ERROR] 2018-07-14 22:20:23.309 [main] base - Validate 'Password confirmation doesn't match Password' error message wasn't shown
+[ERROR] 2018-07-14 22:20:23.339 [main] base - Validate 'Password confirmation doesn't match Password' error message wasn't shown
+[ERROR] 2018-07-14 22:20:23.369 [main] base - Validate 'Password confirmation doesn't match Password' error message wasn't shown
+[INFO ] 2018-07-14 22:20:24.388 [main] base - Clicked on the Sign Up button
+[ERROR] 2018-07-14 22:20:24.449 [main] base - You must agree to the Terms of Use and Privacy Policy error message wasn't shown
+[ERROR] 2018-07-14 22:20:24.477 [main] base - You must agree to the Terms of Use and Privacy Policy error message wasn't shown
+[ERROR] 2018-07-14 22:20:24.506 [main] base - You must agree to the Terms of Use and Privacy Policy error message wasn't shown
+[INFO ] 2018-07-14 22:20:25.513 [main] base - Clicked on the Sign Up button
+[INFO ] 2018-07-14 22:20:25.557 [main] base - Validated color of error test message
+[INFO ] 2018-07-14 22:20:26.753 [main] base - Clicked on the Sign Up button
+[INFO ] 2018-07-14 22:20:26.778 [main] base - Validated background color of error message
+[INFO ] 2018-07-14 22:20:27.971 [main] base - Driver has been initialized
+[INFO ] 2018-07-14 22:20:43.685 [main] base - Validated QAcademy's facebook page link on HomePage
+[INFO ] 2018-07-14 22:20:48.897 [main] base - Validated QAcademy's facebook page link on HomePage
+[INFO ] 2018-07-14 22:20:52.528 [main] base - Validated QAcademy's youtube page link on HomePage
+[INFO ] 2018-07-14 22:20:56.123 [main] base - Validated QAcademy's youtube page link on HomePage
+[INFO ] 2018-07-14 22:20:56.130 [main] base - Advertisement Pop-Up Closed
+[INFO ] 2018-07-14 22:20:56.266 [main] base - Home Tab in the Landing page has been verified
+[INFO ] 2018-07-14 22:20:56.300 [main] base - Course Tab in the Landing page has been verified
+[INFO ] 2018-07-14 22:20:56.333 [main] base - Videos Tab in the Landing page has been verified
+[INFO ] 2018-07-14 22:20:56.385 [main] base - Interview Guide Tab in the Landing page has been verified
+[INFO ] 2018-07-14 22:20:56.418 [main] base - Practice Tab in the Landing page has been verified
+[INFO ] 2018-07-14 22:20:56.452 [main] base - Blog Tab in the Landing page has been verified
+[INFO ] 2018-07-14 22:20:56.488 [main] base - About Tab in the Landing page has been verified
+[INFO ] 2018-07-14 22:20:56.565 [main] base - Verified the link in the image is as expected
+[INFO ] 2018-07-14 22:20:56.675 [main] base - Verified the link in the image is as expected
+[INFO ] 2018-07-14 22:20:56.763 [main] base - Verified the link in the text is as expected
+[INFO ] 2018-07-14 22:20:56.861 [main] base - Verified the link in the image is as expected
+[INFO ] 2018-07-14 22:20:56.902 [main] base - Verified if the discount price is as expected
+[INFO ] 2018-07-14 22:20:56.930 [main] base - Verified if the actual cost of the course is as expected
+[INFO ] 2018-07-14 22:20:57.530 [main] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-07-14 22:20:59.417 [main] base - Validated QAcademy's About page link on HomePage navigation bar
+[INFO ] 2018-07-14 22:21:00.005 [main] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-07-14 22:21:02.459 [main] base - Validated QAcademy's Blog page link on HomePage navigation bar
+[INFO ] 2018-07-14 22:21:02.887 [main] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-07-14 22:21:03.650 [main] base - Validated QAcademy's Contact page link on HomePage navigation bar
+[INFO ] 2018-07-14 22:21:04.045 [main] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-07-14 22:21:07.152 [main] base - Validated QAcademy's Courses page link on HomePage navigation bar
+[INFO ] 2018-07-14 22:21:07.592 [main] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-07-14 22:21:08.605 [main] base - Validated QAcademy's Home page link on HomePage navigation bar
+[INFO ] 2018-07-14 22:21:09.006 [main] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-07-14 22:21:09.955 [main] base - Validated QAcademy's Interview Guide page link on HomePage navigation bar
+[INFO ] 2018-07-14 22:21:10.379 [main] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-07-14 22:21:12.781 [main] base - Validated QAcademy's Practice page link on HomePage navigation bar
+[INFO ] 2018-07-14 22:21:13.120 [main] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-07-14 22:21:14.014 [main] base - Validated QAcademy's Videos page link on HomePage navigation bar
+[INFO ] 2018-07-14 22:21:15.757 [main] base - Driver has been initialized
+[INFO ] 2018-07-14 22:21:28.459 [main] base - Clicked on the loggin button in the home page
+[INFO ] 2018-07-14 22:21:28.729 [main] base - Inserted username and password
+[INFO ] 2018-07-14 22:21:30.096 [main] base - clicked on the Login button in the login page
+[INFO ] 2018-07-14 22:21:30.130 [main] base - Validate if invalid username password has been displayed
+[INFO ] 2018-07-14 22:21:30.200 [main] base - Clicked on the loggin button in the home page
+[INFO ] 2018-07-14 22:21:30.202 [main] base - Clicked on the loggin button in the home page
+[INFO ] 2018-07-14 22:21:30.232 [main] base - Validated color of error test message
+[INFO ] 2018-07-14 22:21:30.259 [main] base - Validated background color of error message
+[INFO ] 2018-07-14 22:21:30.899 [main] base - Validated the forget password link in the login page.
+[INFO ] 2018-07-14 22:21:45.939 [main] base - Entered into contact page from homepage
+[INFO ] 2018-07-14 22:21:46.029 [main] base - Validated contact details lable
+[INFO ] 2018-07-14 22:21:46.067 [main] base - Validated contact address
+[INFO ] 2018-07-14 22:21:46.106 [main] base - Validated contact phone number
+[INFO ] 2018-07-14 22:21:46.191 [main] base - Validate first Email ID
+[INFO ] 2018-07-14 22:21:46.277 [main] base - Validate Second Email ID
+[INFO ] 2018-07-14 22:21:47.307 [main] base - Driver has been initialized
+[INFO ] 2018-07-14 22:22:00.315 [main] base - Validated Practice page link on HomePage
+[INFO ] 2018-07-14 22:22:00.321 [main] base - Moved into Practice page
+[INFO ] 2018-07-14 22:22:00.376 [main] base - Verified radio button title tag
+[INFO ] 2018-07-14 22:22:01.013 [main] base - Verified Suggestion Class Textbox title tag
+[INFO ] 2018-07-14 22:22:01.329 [main] base - Verified dropdown button title tag
+[INFO ] 2018-07-14 22:22:01.472 [main] base - Validated dropdown option 1
+[INFO ] 2018-07-14 22:22:01.602 [main] base - Validated dropdown option 2
+[INFO ] 2018-07-14 22:22:01.792 [main] base - Validated dropdown option 3
+[INFO ] 2018-07-14 22:22:01.799 [main] base - Verified dropdown button title tag
+[INFO ] 2018-07-14 22:22:01.852 [main] base - Verified checkbox lable
+[INFO ] 2018-07-14 22:22:07.192 [main] base - Validate checkbox option one is selected
+[INFO ] 2018-07-14 22:22:12.326 [main] base - Validate checkbox option two is selected
+[INFO ] 2018-07-14 22:22:17.520 [main] base - Validate checkbox option three is selected
+[INFO ] 2018-07-14 22:22:17.561 [main] base - Verified Switch Window title tag
+[INFO ] 2018-07-14 22:22:23.306 [main] base - Verified Switch Window title tag
+[INFO ] 2018-07-14 22:22:23.805 [main] base - Verified Switch Window title tag
+[INFO ] 2018-07-14 22:22:24.487 [main] base - Verified Element Displayed title tag
+[INFO ] 2018-07-14 22:22:24.604 [main] base - Validated hide button
+[INFO ] 2018-07-14 22:22:24.711 [main] base - Validated show button
+[INFO ] 2018-07-14 22:22:24.734 [main] base - Verified Switch Window title tag
+[INFO ] 2018-07-14 22:22:25.335 [main] base - Verified Mouse Hover title tag
+[INFO ] 2018-07-14 22:22:25.541 [main] base - Verified Mouse Hovertop button
+[INFO ] 2018-07-14 22:22:27.485 [main] base - Verified Mouse Hovertop reload

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="resources.listeners"/>
+    <listener class-name="resources.ExtentReporterNG"/>
+  </listeners>
+  <test name="Test1(failed)">
+    <classes>
+      <class name="WebTestFrame.validateContact">
+        <methods>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- WebTestFrame.validateContact -->
+      <class name="WebTestFrame.validateCreateAccount">
+        <methods>
+          <include name="validEmailReqdError"/>
+          <include name="validPolicyCheckBox"/>
+          <include name="validEmailAdd"/>
+          <include name="validPwdLength"/>
+          <include name="validErrorColor"/>
+          <include name="validConPwdNotSame"/>
+          <include name="validFullName"/>
+          <include name="validPwdNull"/>
+          <include name="validConPwdSame"/>
+          <include name="validErrorBgColor"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- WebTestFrame.validateCreateAccount -->
+      <class name="WebTestFrame.validateHomePage">
+        <methods>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- WebTestFrame.validateHomePage -->
+      <class name="WebTestFrame.validateLogin">
+        <methods>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- WebTestFrame.validateLogin -->
+      <class name="WebTestFrame.ValidatePractice">
+        <methods>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- WebTestFrame.ValidatePractice -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+  <test name="Test3(failed)">
+    <classes>
+      <class name="WebTestFrame.validateContact">
+        <methods>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- WebTestFrame.validateContact -->
+      <class name="WebTestFrame.validateCreateAccount">
+        <methods>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- WebTestFrame.validateCreateAccount -->
+      <class name="WebTestFrame.validateHomePage">
+        <methods>
+          <include name="validFCSelenimLinks"/>
+          <include name="homePNavigationDisplayed"/>
+          <include name="allLinksHomePage"/>
+          <include name="initialize"/>
+          <include name="validFCSeleniumDiscPrice"/>
+          <include name="validFeaturedCourses"/>
+          <include name="validNaviBarHome"/>
+          <include name="validNaviBarBlog"/>
+          <include name="validFCSeleStudEnrol"/>
+          <include name="validNaviBarContact"/>
+          <include name="validFCSeleniumPrice"/>
+          <include name="validNaviBarPractice"/>
+          <include name="validNaviBarIntGuides"/>
+          <include name="validNaviBarVideos"/>
+          <include name="validFCSelenimRate"/>
+          <include name="validNaviBarAbout"/>
+          <include name="validNaviBarCourses"/>
+        </methods>
+      </class> <!-- WebTestFrame.validateHomePage -->
+      <class name="WebTestFrame.validateLogin">
+        <methods>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- WebTestFrame.validateLogin -->
+      <class name="WebTestFrame.ValidatePractice">
+        <methods>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- WebTestFrame.ValidatePractice -->
+    </classes>
+  </test> <!-- Test3(failed) -->
+  <test name="Test5(failed)">
+    <classes>
+      <class name="WebTestFrame.validateContact">
+        <methods>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- WebTestFrame.validateContact -->
+      <class name="WebTestFrame.validateCreateAccount">
+        <methods>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- WebTestFrame.validateCreateAccount -->
+      <class name="WebTestFrame.validateHomePage">
+        <methods>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- WebTestFrame.validateHomePage -->
+      <class name="WebTestFrame.validateLogin">
+        <methods>
+          <include name="validEmailPwd"/>
+          <include name="initialize"/>
+          <include name="validErrorBgColor"/>
+          <include name="validForgetPwd"/>
+          <include name="validErrorColor"/>
+        </methods>
+      </class> <!-- WebTestFrame.validateLogin -->
+      <class name="WebTestFrame.ValidatePractice">
+        <methods>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- WebTestFrame.ValidatePractice -->
+    </classes>
+  </test> <!-- Test5(failed) -->
+  <test name="Test2(failed)">
+    <classes>
+      <class name="WebTestFrame.validateContact">
+        <methods>
+          <include name="initialize"/>
+          <include name="validContactEmails"/>
+          <include name="validContactPhone"/>
+          <include name="validContactDetlsLable"/>
+          <include name="validContactTitle"/>
+          <include name="databaseConnLogin"/>
+          <include name="validContactAddr"/>
+        </methods>
+      </class> <!-- WebTestFrame.validateContact -->
+      <class name="WebTestFrame.validateCreateAccount">
+        <methods>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- WebTestFrame.validateCreateAccount -->
+      <class name="WebTestFrame.validateHomePage">
+        <methods>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- WebTestFrame.validateHomePage -->
+      <class name="WebTestFrame.validateLogin">
+        <methods>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- WebTestFrame.validateLogin -->
+      <class name="WebTestFrame.ValidatePractice">
+        <methods>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- WebTestFrame.ValidatePractice -->
+    </classes>
+  </test> <!-- Test2(failed) -->
+  <test name="Test4(failed)">
+    <classes>
+      <class name="WebTestFrame.validateContact">
+        <methods>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- WebTestFrame.validateContact -->
+      <class name="WebTestFrame.validateCreateAccount">
+        <methods>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- WebTestFrame.validateCreateAccount -->
+      <class name="WebTestFrame.validateHomePage">
+        <methods>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- WebTestFrame.validateHomePage -->
+      <class name="WebTestFrame.validateLogin">
+        <methods>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- WebTestFrame.validateLogin -->
+      <class name="WebTestFrame.ValidatePractice">
+        <methods>
+          <include name="validPracticeSwitchWindow"/>
+          <include name="validPracticeCheckbox"/>
+          <include name="validPracMouseHovrReload"/>
+          <include name="validPracticeRadio"/>
+          <include name="validPracticeElementDisplayed"/>
+          <include name="initialize"/>
+          <include name="validPracticeWebTable"/>
+          <include name="validSuggessionTxtBox"/>
+          <include name="validPracticeDropdown"/>
+          <include name="validPracticeSwitchAlert"/>
+          <include name="validPracMouseHovrTop"/>
+          <include name="validPracticeSwitchTab"/>
+        </methods>
+      </class> <!-- WebTestFrame.ValidatePractice -->
+    </classes>
+  </test> <!-- Test4(failed) -->
+</suite> <!-- Failed suite [Suite] -->

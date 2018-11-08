@@ -1,0 +1,21 @@
+[INFO ] 2018-09-25 12:49:31.540 [main] base - Driver has been initialized
+[INFO ] 2018-09-25 12:49:50.232 [main] base - Driver has been initialized
+[INFO ] 2018-09-25 12:49:52.507 [main] base - Advertisement Pop-Up Closed
+[INFO ] 2018-09-25 12:49:52.650 [main] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-09-25 12:49:52.683 [main] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-09-25 12:49:52.718 [main] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-09-25 12:49:52.749 [main] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-09-25 12:49:52.774 [main] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-09-25 12:49:52.817 [main] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-09-25 12:49:52.860 [main] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-09-25 12:49:52.923 [main] base - Contact Tab in the Landing page has been verified
+[INFO ] 2018-09-25 17:48:57.006 [main] base - Driver has been initialized
+[INFO ] 2018-09-25 17:49:12.288 [main] base - Clicked on the loggin button in the home page
+[INFO ] 2018-09-25 17:49:12.541 [main] base - Inserted username and password
+[INFO ] 2018-09-25 17:49:13.785 [main] base - clicked on the Login button in the login page
+[INFO ] 2018-09-25 17:49:13.829 [main] base - Validate if invalid username password has been displayed
+[INFO ] 2018-09-25 17:49:13.906 [main] base - Clicked on the loggin button in the home page
+[INFO ] 2018-09-25 17:49:13.908 [main] base - Clicked on the loggin button in the home page
+[INFO ] 2018-09-25 17:49:13.983 [main] base - Validated color of error test message
+[INFO ] 2018-09-25 17:49:14.023 [main] base - Validated background color of error message
+[INFO ] 2018-09-25 17:49:15.715 [main] base - Validated the forget password link in the login page.
