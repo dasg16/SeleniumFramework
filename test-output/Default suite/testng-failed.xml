@@ -3,13 +3,12 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="WebTestFrame.ValidatePractice">
+      <class name="RestAssuredWebServices.RestAssuredGetMethod">
         <methods>
-          <include name="initialize"/>
-          <include name="validPracticeDropdown"/>
-          <include name="teardown"/>
+          <include name="getAssured"/>
+          <include name="setUP"/>
         </methods>
-      </class> <!-- WebTestFrame.ValidatePractice -->
+      </class> <!-- RestAssuredWebServices.RestAssuredGetMethod -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

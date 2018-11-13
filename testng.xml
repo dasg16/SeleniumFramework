@@ -1,65 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite  name="Suite">
-  <listeners>
-<listener class-name= "resources.listeners"/>
-         <listener class-name="resources.ExtentReporterNG"/>
+<suite name="Suite">
+	<listeners>
+		<listener class-name="resources.listeners" />
+		<listener class-name="resources.ExtentReporterNG" />
 
-</listeners>
-<test name="Test1">
-    <classes>
-      
-      <class name="WebTestFrame.validateCreateAccount"/>
-      
-       </classes>
-</test>
-  
-<test name="Test3">
-      <classes>
-      <class name="WebTestFrame.validateHomePage">
-         <!-- <method exlude name="WebTestFrame.validateHomePage"> -->     
-      
-      </class>
-    </classes>
-</test>
+	</listeners>
+	<test name="Test1">
+		<classes>
+
+			<class name="WebTestFrame.validateCreateAccount" />
+
+		</classes>
+	</test>
+
+	<test name="Test3">
+		<classes>
+			<class name="WebTestFrame.validateHomePage">
+				<!-- <method exlude name="WebTestFrame.validateHomePage"> -->
+
+			</class>
+		</classes>
+	</test>
 
 
-<test name="Test5">
-      <classes>
-      <class name="WebTestFrame.validateLogin"/>
-      
-    </classes>
-</test> 
+	<test name="Test5">
+		<classes>
+			<class name="WebTestFrame.validateLogin" />
 
-<test name="Test2">
-      <classes>
-      <class name="WebTestFrame.validateContact"/>
-      
-    </classes>
-</test>
+		</classes>
+	</test>
 
-  
-<test name="Test4">
-      <classes>
-      <class name="WebTestFrame.ValidatePractice">
-      
-      </class>
-    </classes>
-</test>
-  
+	<test name="Test2">
+		<classes>
+			<class name="WebTestFrame.validateContact" />
 
- 
+		</classes>
+	</test>
 
- 
-  <!-- <test name="Test2">
-    <classes>
-      <class name="WebTestFrame.validateHomePage"/>
-      <class name="WebTestFrame.validateNavigationBar"/>
-      <class name="WebTestFrame.ValidatePractice">
-      <class name="WebTestFrame.validateCreateAccount"/>
-      <class name="WebTestFrame.validateLogin"/>
-      
-    </classes>
-  </test> Test -->
-  
+
+	<test name="Test4">
+		<classes>
+			<class name="WebTestFrame.ValidatePractice">
+
+			</class>
+		</classes>
+	</test>
+
+
+
+
+
+	<!-- <test name="Test2"> <classes> <class name="WebTestFrame.validateHomePage"/> 
+		<class name="WebTestFrame.validateNavigationBar"/> <class name="WebTestFrame.ValidatePractice"> 
+		<class name="WebTestFrame.validateCreateAccount"/> <class name="WebTestFrame.validateLogin"/> 
+		</classes> </test> Test -->
+
 </suite> <!-- Suite -->
