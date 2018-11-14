@@ -3,12 +3,11 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="RestAssuredWebServices.RestAssuredGetMethod">
+      <class name="WebTestFrame.SeleniumGrid">
         <methods>
-          <include name="getAssured"/>
-          <include name="setUP"/>
+          <include name="setDesiredCapabilities"/>
         </methods>
-      </class> <!-- RestAssuredWebServices.RestAssuredGetMethod -->
+      </class> <!-- WebTestFrame.SeleniumGrid -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -1,14 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [Default suite]">
-  <test name="Default test(failed)">
+<suite name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="resources.listeners"/>
+    <listener class-name="resources.ExtentReporterNG"/>
+  </listeners>
+  <test name="Test1(failed)">
     <classes>
-      <class name="RestAssuredWebServices.RestAssuredGetMethod">
+      <class name="WebTestFrame.validateCreateAccount">
         <methods>
-          <include name="getAssured"/>
-          <include name="setUP"/>
+          <include name="validEmailReqdError"/>
+          <include name="validPolicyCheckBox"/>
+          <include name="validEmailAdd"/>
+          <include name="validPwdLength"/>
+          <include name="validErrorColor"/>
+          <include name="validConPwdNotSame"/>
+          <include name="validFullName"/>
+          <include name="validPwdNull"/>
+          <include name="validConPwdSame"/>
+          <include name="validErrorBgColor"/>
+          <include name="initialize"/>
         </methods>
-      </class> <!-- RestAssuredWebServices.RestAssuredGetMethod -->
+      </class> <!-- WebTestFrame.validateCreateAccount -->
     </classes>
-  </test> <!-- Default test(failed) -->
-</suite> <!-- Failed suite [Default suite] -->
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [Suite] -->

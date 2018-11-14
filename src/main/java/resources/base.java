@@ -29,13 +29,15 @@ public class base {
 		String browserName = prop.getProperty("browser");
 
 		if (browserName.equals("chrome")) {
-			System.setProperty("webdriver.chrome.driver", "/Users/gouravdas/chromedriver");
+			System.setProperty("webdriver.chrome.driver",
+					System.getProperty("user.dir") + "/drivers/chromedriver/chromedriver.exe");
 			driver = new ChromeDriver();
 
 		}
 
 		if (browserName.equals("firefox")) {
-			System.setProperty("webdriver.gecko.driver", "/Users/gouravdas/geckodriver");
+			System.setProperty("webdriver.gecko.driver",
+					System.getProperty("user.dir") + "/drivers/geckodriver/geckodriver.exe");
 			driver = new FirefoxDriver();
 
 		}

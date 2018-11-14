@@ -1,40 +1,49 @@
-[INFO ] 2018-11-11 20:31:35.407 [main] base - Driver has been initialized
-[INFO ] 2018-11-11 20:31:46.534 [main] base - Clicked on the close button of the pop-up
-[INFO ] 2018-11-11 20:31:49.443 [main] base - Clicked on the loggin button
-[INFO ] 2018-11-11 20:31:51.161 [main] base - Clicked on the Sign Up button
-[INFO ] 2018-11-11 20:31:51.209 [main] base - Validated 'Email is required' error message
-[INFO ] 2018-11-11 20:31:51.525 [main] base - Entered already existing Email ID
-[INFO ] 2018-11-11 20:31:52.919 [main] base - Clicked on the Sign Up button
-[INFO ] 2018-11-11 20:31:52.953 [main] base - Validated 'Email is already in use' error message
-[INFO ] 2018-11-11 20:31:54.827 [main] base - Clicked on the Sign Up button
-[INFO ] 2018-11-11 20:31:54.875 [main] base - Validated 'Name is required' error message
-[INFO ] 2018-11-11 20:31:56.490 [main] base - Clicked on the Sign Up button
-[INFO ] 2018-11-11 20:31:56.530 [main] base - Validated 'Password is required' error message
-[INFO ] 2018-11-11 20:31:56.637 [main] base - Entered 5 digit value in the text field
-[INFO ] 2018-11-11 20:31:58.237 [main] base - Clicked on the Sign Up button
-[INFO ] 2018-11-11 20:31:58.279 [main] base - Validate 'Password is too short (minimum is 6 characters)' error message
-[INFO ] 2018-11-11 20:31:58.372 [main] base - Entered 6 digit value in the text field
-[INFO ] 2018-11-11 20:31:59.865 [main] base - Clicked on the Sign Up button
-[INFO ] 2018-11-11 20:31:59.949 [main] base - Validated 'Password is too short (minimum is 6 characters)' error message' is not shown
-[INFO ] 2018-11-11 20:31:59.980 [main] base - Validated 'Password is too short (minimum is 6 characters)' error message' is not shown
-[INFO ] 2018-11-11 20:32:00.020 [main] base - Validated 'Password is too short (minimum is 6 characters)' error message' is not shown
-[INFO ] 2018-11-11 20:32:00.050 [main] base - Validated 'Password is too short (minimum is 6 characters)' error message' is not shown
-[INFO ] 2018-11-11 20:32:00.308 [main] base - Entered the same value for password and confirm password
-[INFO ] 2018-11-11 20:32:02.025 [main] base - Clicked on the Sign Up button
-[INFO ] 2018-11-11 20:32:02.086 [main] base - Validated 'Password confirmation doesn't match Password' is not shown
-[INFO ] 2018-11-11 20:32:02.127 [main] base - Validated 'Password confirmation doesn't match Password' is not shown
-[INFO ] 2018-11-11 20:32:02.157 [main] base - Validated 'Password confirmation doesn't match Password' is not shown
-[INFO ] 2018-11-11 20:32:02.380 [main] base - Entered different values for password and confirm password
-[INFO ] 2018-11-11 20:32:04.085 [main] base - Clicked on the Sign Up button
-[ERROR] 2018-11-11 20:32:04.147 [main] base - Validate 'Password confirmation doesn't match Password' error message wasn't shown
-[ERROR] 2018-11-11 20:32:04.181 [main] base - Validate 'Password confirmation doesn't match Password' error message wasn't shown
-[ERROR] 2018-11-11 20:32:04.222 [main] base - Validate 'Password confirmation doesn't match Password' error message wasn't shown
-[ERROR] 2018-11-11 20:32:04.252 [main] base - Validate 'Password confirmation doesn't match Password' error message wasn't shown
-[INFO ] 2018-11-11 20:32:06.148 [main] base - Clicked on the Sign Up button
-[ERROR] 2018-11-11 20:32:06.226 [main] base - You must agree to the Terms of Use and Privacy Policy error message wasn't shown
-[ERROR] 2018-11-11 20:32:06.255 [main] base - You must agree to the Terms of Use and Privacy Policy error message wasn't shown
-[ERROR] 2018-11-11 20:32:06.290 [main] base - You must agree to the Terms of Use and Privacy Policy error message wasn't shown
-[INFO ] 2018-11-11 20:32:07.843 [main] base - Clicked on the Sign Up button
-[INFO ] 2018-11-11 20:32:07.902 [main] base - Validated color of error test message
-[INFO ] 2018-11-11 20:32:09.760 [main] base - Clicked on the Sign Up button
-[INFO ] 2018-11-11 20:32:09.792 [main] base - Validated background color of error message
+[INFO ] 2018-11-14 09:00:53.011 [TestNG] base - Driver has been initialized
+[INFO ] 2018-11-14 09:00:53.011 [TestNG] base - Driver has been initialized
+[INFO ] 2018-11-14 09:10:29.542 [main] base - Driver has been initialized
+[INFO ] 2018-11-14 09:10:40.464 [main] base - Clicked on the close button of the pop-up
+[INFO ] 2018-11-14 09:10:43.536 [main] base - Clicked on the loggin button
+[INFO ] 2018-11-14 09:10:45.513 [main] base - Clicked on the Sign Up button
+[INFO ] 2018-11-14 09:10:45.564 [main] base - Validated 'Email is required' error message
+[INFO ] 2018-11-14 09:10:45.984 [main] base - Entered already existing Email ID
+[INFO ] 2018-11-14 09:10:46.772 [main] base - Clicked on the Sign Up button
+[INFO ] 2018-11-14 09:13:45.726 [main] base - Driver has been initialized
+[INFO ] 2018-11-14 09:13:56.424 [main] base - Clicked on the close button of the pop-up
+[INFO ] 2018-11-14 09:13:59.904 [main] base - Clicked on the loggin button
+[INFO ] 2018-11-14 09:14:02.172 [main] base - Clicked on the Sign Up button
+[INFO ] 2018-11-14 09:14:02.231 [main] base - Validated 'Email is required' error message
+[INFO ] 2018-11-14 09:14:02.561 [main] base - Entered already existing Email ID
+[INFO ] 2018-11-14 09:14:04.017 [main] base - Clicked on the Sign Up button
+[INFO ] 2018-11-14 09:14:04.055 [main] base - Validated 'Email is already in use' error message
+[INFO ] 2018-11-14 09:14:05.470 [main] base - Clicked on the Sign Up button
+[INFO ] 2018-11-14 09:14:05.514 [main] base - Validated 'Name is required' error message
+[INFO ] 2018-11-14 09:14:06.854 [main] base - Clicked on the Sign Up button
+[INFO ] 2018-11-14 09:14:06.897 [main] base - Validated 'Password is required' error message
+[INFO ] 2018-11-14 09:14:07.006 [main] base - Entered 5 digit value in the text field
+[INFO ] 2018-11-14 09:14:08.628 [main] base - Clicked on the Sign Up button
+[INFO ] 2018-11-14 09:14:08.670 [main] base - Validate 'Password is too short (minimum is 6 characters)' error message
+[INFO ] 2018-11-14 09:14:08.774 [main] base - Entered 6 digit value in the text field
+[INFO ] 2018-11-14 09:14:10.347 [main] base - Clicked on the Sign Up button
+[INFO ] 2018-11-14 09:14:10.434 [main] base - Validated 'Password is too short (minimum is 6 characters)' error message' is not shown
+[INFO ] 2018-11-14 09:14:10.462 [main] base - Validated 'Password is too short (minimum is 6 characters)' error message' is not shown
+[INFO ] 2018-11-14 09:14:10.491 [main] base - Validated 'Password is too short (minimum is 6 characters)' error message' is not shown
+[INFO ] 2018-11-14 09:14:10.527 [main] base - Validated 'Password is too short (minimum is 6 characters)' error message' is not shown
+[INFO ] 2018-11-14 09:14:10.812 [main] base - Entered the same value for password and confirm password
+[INFO ] 2018-11-14 09:14:15.564 [main] base - Clicked on the Sign Up button
+[INFO ] 2018-11-14 09:14:15.628 [main] base - Validated 'Password confirmation doesn't match Password' is not shown
+[INFO ] 2018-11-14 09:14:15.660 [main] base - Validated 'Password confirmation doesn't match Password' is not shown
+[INFO ] 2018-11-14 09:14:15.689 [main] base - Validated 'Password confirmation doesn't match Password' is not shown
+[INFO ] 2018-11-14 09:14:15.908 [main] base - Entered different values for password and confirm password
+[INFO ] 2018-11-14 09:14:17.643 [main] base - Clicked on the Sign Up button
+[ERROR] 2018-11-14 09:14:17.707 [main] base - Validate 'Password confirmation doesn't match Password' error message wasn't shown
+[ERROR] 2018-11-14 09:14:17.737 [main] base - Validate 'Password confirmation doesn't match Password' error message wasn't shown
+[ERROR] 2018-11-14 09:14:17.768 [main] base - Validate 'Password confirmation doesn't match Password' error message wasn't shown
+[ERROR] 2018-11-14 09:14:17.798 [main] base - Validate 'Password confirmation doesn't match Password' error message wasn't shown
+[INFO ] 2018-11-14 09:14:19.622 [main] base - Clicked on the Sign Up button
+[ERROR] 2018-11-14 09:14:19.689 [main] base - You must agree to the Terms of Use and Privacy Policy error message wasn't shown
+[ERROR] 2018-11-14 09:14:19.719 [main] base - You must agree to the Terms of Use and Privacy Policy error message wasn't shown
+[ERROR] 2018-11-14 09:14:19.752 [main] base - You must agree to the Terms of Use and Privacy Policy error message wasn't shown
+[INFO ] 2018-11-14 09:14:21.324 [main] base - Clicked on the Sign Up button
+[INFO ] 2018-11-14 09:14:21.402 [main] base - Validated color of error test message
+[INFO ] 2018-11-14 09:14:23.052 [main] base - Clicked on the Sign Up button
+[INFO ] 2018-11-14 09:14:23.080 [main] base - Validated background color of error message

@@ -1,29 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" total="10" passed="10">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="70368" started-at="2018-11-12T01:32:41Z" finished-at="2018-11-12T01:33:52Z">
+  <suite name="Suite" duration-ms="39595" started-at="2018-11-14T14:13:43Z" finished-at="2018-11-14T14:14:23Z">
     <groups>
+      <group name="Smoke">
+        <method signature="validateCreateAccount.validEmailReqdError()[pri:0, instance:WebTestFrame.validateCreateAccount@293a5bf6]" name="validEmailReqdError" class="WebTestFrame.validateCreateAccount"/>
+      </group> <!-- Smoke -->
     </groups>
-    <test name="Default test" duration-ms="70368" started-at="2018-11-12T01:32:41Z" finished-at="2018-11-12T01:33:52Z">
-      <class name="WebTestFrame.validateCoursePageLinks">
-        <test-method status="PASS" signature="initialization()[pri:0, instance:WebTestFrame.validateCoursePageLinks@7cd62f43]" name="initialization" is-config="true" duration-ms="2246" started-at="2018-11-11T20:32:41Z" finished-at="2018-11-11T20:32:43Z">
+    <test name="Test1" duration-ms="39595" started-at="2018-11-14T14:13:43Z" finished-at="2018-11-14T14:14:23Z">
+      <class name="WebTestFrame.validateCreateAccount">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:WebTestFrame.validateCreateAccount@293a5bf6]" name="initialize" is-config="true" duration-ms="8686" started-at="2018-11-14T09:13:43Z" finished-at="2018-11-14T09:13:52Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- initialization -->
-        <test-method status="PASS" signature="setURL()[pri:0, instance:WebTestFrame.validateCoursePageLinks@7cd62f43]" name="setURL" is-config="true" duration-ms="11077" started-at="2018-11-11T20:32:43Z" finished-at="2018-11-11T20:32:55Z">
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="validEmailReqdError()[pri:0, instance:WebTestFrame.validateCreateAccount@293a5bf6]" name="validEmailReqdError" duration-ms="9931" started-at="2018-11-14T09:13:52Z" finished-at="2018-11-14T09:14:02Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setURL -->
-        <test-method status="PASS" signature="validateLinkResponses()[pri:0, instance:WebTestFrame.validateCoursePageLinks@7cd62f43]" name="validateLinkResponses" duration-ms="56921" started-at="2018-11-11T20:32:55Z" finished-at="2018-11-11T20:33:51Z">
+        </test-method> <!-- validEmailReqdError -->
+        <test-method status="PASS" signature="validEmailAdd()[pri:0, instance:WebTestFrame.validateCreateAccount@293a5bf6]" name="validEmailAdd" duration-ms="1822" started-at="2018-11-14T09:14:02Z" finished-at="2018-11-14T09:14:04Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- validateLinkResponses -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:WebTestFrame.validateCoursePageLinks@7cd62f43]" name="teardown" is-config="true" duration-ms="98" started-at="2018-11-11T20:33:51Z" finished-at="2018-11-11T20:33:52Z">
+        </test-method> <!-- validEmailAdd -->
+        <test-method status="PASS" signature="validFullName()[pri:0, instance:WebTestFrame.validateCreateAccount@293a5bf6]" name="validFullName" duration-ms="1457" started-at="2018-11-14T09:14:04Z" finished-at="2018-11-14T09:14:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validFullName -->
+        <test-method status="PASS" signature="validPwdNull()[pri:0, instance:WebTestFrame.validateCreateAccount@293a5bf6]" name="validPwdNull" duration-ms="1382" started-at="2018-11-14T09:14:05Z" finished-at="2018-11-14T09:14:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validPwdNull -->
+        <test-method status="PASS" signature="validPwdLength()[pri:0, instance:WebTestFrame.validateCreateAccount@293a5bf6]" name="validPwdLength" duration-ms="3629" started-at="2018-11-14T09:14:06Z" finished-at="2018-11-14T09:14:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validPwdLength -->
+        <test-method status="PASS" signature="validConPwdSame()[pri:0, instance:WebTestFrame.validateCreateAccount@293a5bf6]" name="validConPwdSame" duration-ms="5161" started-at="2018-11-14T09:14:10Z" finished-at="2018-11-14T09:14:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validConPwdSame -->
+        <test-method status="PASS" signature="validConPwdNotSame()[pri:0, instance:WebTestFrame.validateCreateAccount@293a5bf6]" name="validConPwdNotSame" duration-ms="2109" started-at="2018-11-14T09:14:15Z" finished-at="2018-11-14T09:14:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validConPwdNotSame -->
+        <test-method status="PASS" signature="validPolicyCheckBox()[pri:0, instance:WebTestFrame.validateCreateAccount@293a5bf6]" name="validPolicyCheckBox" duration-ms="1953" started-at="2018-11-14T09:14:17Z" finished-at="2018-11-14T09:14:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validPolicyCheckBox -->
+        <test-method status="PASS" signature="validErrorColor()[pri:0, instance:WebTestFrame.validateCreateAccount@293a5bf6]" name="validErrorColor" duration-ms="1648" started-at="2018-11-14T09:14:19Z" finished-at="2018-11-14T09:14:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validErrorColor -->
+        <test-method status="PASS" signature="validErrorBgColor()[pri:0, instance:WebTestFrame.validateCreateAccount@293a5bf6]" name="validErrorBgColor" duration-ms="1677" started-at="2018-11-14T09:14:21Z" finished-at="2018-11-14T09:14:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validErrorBgColor -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:WebTestFrame.validateCreateAccount@293a5bf6]" name="teardown" is-config="true" duration-ms="110" started-at="2018-11-14T09:14:23Z" finished-at="2018-11-14T09:14:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-      </class> <!-- WebTestFrame.validateCoursePageLinks -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      </class> <!-- WebTestFrame.validateCreateAccount -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
 </testng-results>
