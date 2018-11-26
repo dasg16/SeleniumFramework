@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [Suite]">
-  <listeners>
-    <listener class-name="resources.listeners"/>
-    <listener class-name="resources.ExtentReporterNG"/>
-  </listeners>
-  <test name="Test1(failed)">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
     <classes>
-      <class name="WebTestFrame.validateCreateAccount">
+      <class name="WebTestFrame.validateHomePage">
         <methods>
-          <include name="validEmailReqdError"/>
-          <include name="validPolicyCheckBox"/>
-          <include name="validEmailAdd"/>
-          <include name="validPwdLength"/>
-          <include name="validErrorColor"/>
-          <include name="validConPwdNotSame"/>
-          <include name="validFullName"/>
-          <include name="validPwdNull"/>
-          <include name="validConPwdSame"/>
-          <include name="validErrorBgColor"/>
+          <include name="validFCSelenimLinks"/>
+          <include name="homePNavigationDisplayed"/>
+          <include name="allLinksHomePage"/>
           <include name="initialize"/>
+          <include name="validFCSeleniumDiscPrice"/>
+          <include name="validFeaturedCourses"/>
+          <include name="validNaviBarHome"/>
+          <include name="validNaviBarBlog"/>
+          <include name="validFCSeleStudEnrol"/>
+          <include name="validNaviBarContact"/>
+          <include name="validFCSeleniumPrice"/>
+          <include name="validNaviBarPractice"/>
+          <include name="validNaviBarIntGuides"/>
+          <include name="validNaviBarVideos"/>
+          <include name="setURL"/>
+          <include name="validFCSelenimRate"/>
+          <include name="validNaviBarAbout"/>
+          <include name="teardown"/>
+          <include name="validNaviBarCourses"/>
         </methods>
-      </class> <!-- WebTestFrame.validateCreateAccount -->
+      </class> <!-- WebTestFrame.validateHomePage -->
     </classes>
-  </test> <!-- Test1(failed) -->
-</suite> <!-- Failed suite [Suite] -->
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

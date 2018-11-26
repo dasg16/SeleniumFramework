@@ -3,11 +3,29 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="WebTestFrame.SeleniumGrid">
+      <class name="WebTestFrame.validateHomePage">
         <methods>
-          <include name="setDesiredCapabilities"/>
+          <include name="validFCSelenimLinks"/>
+          <include name="homePNavigationDisplayed"/>
+          <include name="allLinksHomePage"/>
+          <include name="initialize"/>
+          <include name="validFCSeleniumDiscPrice"/>
+          <include name="validFeaturedCourses"/>
+          <include name="validNaviBarHome"/>
+          <include name="validNaviBarBlog"/>
+          <include name="validFCSeleStudEnrol"/>
+          <include name="validNaviBarContact"/>
+          <include name="validFCSeleniumPrice"/>
+          <include name="validNaviBarPractice"/>
+          <include name="validNaviBarIntGuides"/>
+          <include name="validNaviBarVideos"/>
+          <include name="setURL"/>
+          <include name="validFCSelenimRate"/>
+          <include name="validNaviBarAbout"/>
+          <include name="teardown"/>
+          <include name="validNaviBarCourses"/>
         </methods>
-      </class> <!-- WebTestFrame.SeleniumGrid -->
+      </class> <!-- WebTestFrame.validateHomePage -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

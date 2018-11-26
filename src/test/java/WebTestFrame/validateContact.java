@@ -14,6 +14,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import org.testng.annotations.AfterTest;
+import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
@@ -31,9 +32,15 @@ public class validateContact extends base {
 	public static String secondemail;
 
 	@BeforeTest
-	public void initialize() throws IOException {
+	public void setUP() throws IOException {
 
 		driver = initializeDriver();
+
+	}
+
+	@BeforeClass
+	public void setURL() {
+
 		driver.get(prop.getProperty("url"));
 
 	}

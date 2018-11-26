@@ -32,7 +32,14 @@ public class validateHomePage extends base {
 
 		driver = initializeDriver();
 		log.info("Driver has been initialized");
+
+	}
+
+	@BeforeTest
+	public void setURL() {
+
 		driver.get(prop.getProperty("url"));
+
 	}
 
 	// Method to verify all the links on HomePage/LandingPage
